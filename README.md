@@ -26,7 +26,7 @@ This project is based on the *Frontend Mentor – Calculator App* challenge.
 ## Live sites
 
 - Repository url: https://github.com/Tetris7/calculator-app-main.git
-- Live site:
+- Live site:  https://tetris7.github.io/calculator-app-main/
 
 ## What I Learned
 
